@@ -1,0 +1,6 @@
+{
+  "pearson_r": 0.4083,
+  "spearman_rho": 0.8532,
+  "mae": 0.2038,
+  "n_samples": 200
+}

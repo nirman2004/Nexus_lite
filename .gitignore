@@ -1,0 +1,22 @@
+# Ignore specific simulation result folders
+html/
+results/
+output/
+plots/
+
+# Ignore common netlist extensions
+*.net
+*.cir
+*.sp
+*.spf
+
+# Ignore simulation logs, waveforms, and temporary outputs
+*.log
+*.tr*
+*.vcd
+*.sw*
+*.out
+*.raw
+
+# Ignore system/tool specific backups
+*.bak

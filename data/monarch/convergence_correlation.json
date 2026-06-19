@@ -1,0 +1,8 @@
+{
+  "n_samples": 1980,
+  "spearman_T_BW": 0.4383,
+  "spearman_T_Gain": -0.5931,
+  "pearson_T_BW": 0.3335,
+  "p_bw": 9.953909049515085e-94,
+  "p_gain": 1.915423631205397e-188
+}

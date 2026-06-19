@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "W_diff": 6.94,
+    "L_diff": 0.31,
+    "I_bias": 38.98,
+    "file": "data/netlists/diffpair_0.sp",
+    "vout": 1.4102
+  },
+  {
+    "id": 1,
+    "W_diff": 6.76,
+    "L_diff": 0.75,
+    "I_bias": 81.43,
+    "file": "data/netlists/diffpair_1.sp",
+    "vout": 0.9857
+  },
+  {
+    "id": 2,
+    "W_diff": 1.04,
+    "L_diff": 0.62,
+    "I_bias": 24.64,
+    "file": "data/netlists/diffpair_2.sp",
+    "vout": 1.5536
+  },
+  {
+    "id": 3,
+    "W_diff": 3.22,
+    "L_diff": 0.19,
+    "I_bias": 26.32,
+    "file": "data/netlists/diffpair_3.sp",
+    "vout": 1.5368
+  },
+  {
+    "id": 4,
+    "W_diff": 6.75,
+    "L_diff": 0.79,
+    "I_bias": 12.39,
+    "file": "data/netlists/diffpair_4.sp",
+    "vout": 1.6761
+  }
+]
